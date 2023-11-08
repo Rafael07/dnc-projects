@@ -24,7 +24,7 @@ The primary goal is to reach the maximum number of users possible. To achieve th
 
 In order to achieve these objectives, the following steps will be taken:
 
-1. **Data Collection**: We used SQL as our primary tool to gather user interaction data, including user and transaction IDs, engagement dates, and operating systems, from our database.
+1. **Data Collection**: SQL were used as our primary tool to gather user interaction data, including user and transaction IDs, engagement dates, and operating systems, from our database.
 3. **Business Inteligence Analysis**: Utilize BI tools and techniques to determine the most engaging days and times.
 4. **Dashboard Creation**: Develop data visualization dashboards to track user activity and engagement over time.
 5. **Recommendations**: Based on the analysis, make recommendations for the optimal launch date and prioritize the development for specific operating systems.
