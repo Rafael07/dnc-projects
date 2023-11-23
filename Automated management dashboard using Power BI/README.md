@@ -18,7 +18,7 @@ The Digital Marketing Company "X" is facing the challenge of achieving an ambiti
 
 The data table below represents a snapshot of the comprehensive dataset that will populate the Power BI dashboard, from the given dataset.
 
-![Table Image Placeholder]([dataset_table.png](https://github.com/Rafael07/dnc-projects/blob/main/Automated%20management%20dashboard%20using%20Power%20BI/dataset_table.PNG?raw=true))
+![dataset_table](https://github.com/Rafael07/dnc-projects/assets/6786127/24f8a6e0-8e20-45bc-afc7-318232f6a3e3)
 
 ## Technologies and Tools
 
