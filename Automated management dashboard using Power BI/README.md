@@ -29,6 +29,7 @@ The data table below represents a snapshot of the comprehensive dataset that wil
 ## Delivery
 
 The completion of this Power BI dashboard project will provide Company "X" with a powerful tool to streamline decision-making. The delivery involves the implementation of an interactive, real-time dashboard that consolidates disparate data sources into actionable insights. The deployment will empower the marketing team to optimize campaigns effectively, aligning strategies with the quarterly target.
+For access to the live Power BI dashboard, visit https://bit.ly/3sN5cPf
 
 ## Conclusion
 
