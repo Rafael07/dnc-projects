@@ -33,6 +33,8 @@ Utilizing Excel for data cleansing, we manipulate data to do some adjustments an
 Our analysis revealed distinct sales patterns during specific promotional periods. Additionally, specific customer segments exhibited preferences for particular product categories.
 
 #### Dashboard Visualization
+See it here: [final dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWVkNzYwMGQtYWYyNC00OTAyLWJlNTItZTk3YTk4M2UyM2YzIiwidCI6IjhiMGNmNWY5LWY4YjQtNDE1Yi05Y2EzLWE3YzkxMjUyMjBhZiJ9)
+
 The developed Power BI dashboard facilitated dynamic visualization of the generated metrics, enabling efficient monitoring and strategic decision-making for the e-commerce platform's management team.
 
 ## Conclusion
