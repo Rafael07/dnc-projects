@@ -38,8 +38,3 @@ The developed Power BI dashboard facilitated dynamic visualization of the genera
 ## Conclusion
 
 This project's outcomes offer valuable insights to enhance the e-commerce platform's sales performance. Future steps involve continued analysis, leveraging machine learning algorithms for predictive modeling, and implementing targeted marketing strategies based on customer behavior.
-
-## Acknowledgments
-
-We extend our gratitude to the Product Owner for providing the datasets and the team members for their collaborative efforts in analyzing and interpreting the data.
-
